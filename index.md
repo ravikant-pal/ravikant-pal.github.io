@@ -2,19 +2,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ravikant%20Pal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Engineer&descAlignY=58&descColor=a8d8ea" width="100%"/>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravikant--pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikant-pal)
-[![GitHub](https://img.shields.io/badge/GitHub-ravikant--pal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikant-pal)
-[![Email](https://img.shields.io/badge/Email-iamravikantpal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamravikantpal@gmail.com)
-[![Location](https://img.shields.io/badge/Based_In-Bangalore%2C_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Status](https://img.shields.io/badge/Status-Immediate_Joiner-00C851?style=for-the-badge)]()
-[![Relocate](https://img.shields.io/badge/Open_To-Netherlands_%7C_Europe-FF9900?style=for-the-badge)]()
+<a href="https://linkedin.com/in/ravikant-pal">
+  <img src="https://img.shields.io/badge/LinkedIn-ravikant--pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://github.com/ravikant-pal">
+  <img src="https://img.shields.io/badge/GitHub-ravikant--pal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-> **6+ years building TB-scale pipelines, real-time CDC systems, and cloud-native analytics platforms.**
-> Founder of a live SaaS product with 200+ paying customers. Immediate joiner. Relocating to the Netherlands.
+<a href="mailto:iamravikantpal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-iamravikantpal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a>
+  <img src="https://img.shields.io/badge/Based_In-Bangalore%2C_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
+
+<a>
+  <img src="https://img.shields.io/badge/Status-Immediate_Joiner-00C851?style=for-the-badge"/>
+</a>
+
+<a>
+  <img src="https://img.shields.io/badge/Open_To-Netherlands_%7C_Europe-FF9900?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+<p>
+<strong>6+ years building TB-scale pipelines, real-time CDC systems, and cloud-native analytics platforms.</strong><br/>
+Founder of a live SaaS product with 200+ paying customers. Immediate joiner. Relocating to the Netherlands.
+</p>
 
 </div>
 
@@ -220,14 +239,27 @@ Dutch — Beginner (A1, in progress)
 
 <div align="center">
 
-### Open to Relocation: Netherlands (Amsterdam preferred) and broader Europe
+<h3>Open to Relocation: Netherlands (Amsterdam preferred) and broader Europe</h3>
 
-**EU work authorization sponsorship may be required. Immediate joiner. Available from day one.**
+<p>
+<strong>EU work authorization sponsorship may be required. Immediate joiner. Available from day one.</strong>
+</p>
 
+<p>
 If you are hiring a Senior Data Engineer who builds systems that survive production and ships products that customers pay for:
+</p>
 
-[![Email Me](https://img.shields.io/badge/Email_Me-iamravikantpal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamravikantpal@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikant-pal)
+<br/>
+
+<a href="mailto:iamravikantpal@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-iamravikantpal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ravikant-pal">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
