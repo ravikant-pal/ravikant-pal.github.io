@@ -212,8 +212,8 @@ Dr. A P J Abdul Kalam Technical University | 2015 — 2019 | Uttar Pradesh, Indi
 
 ## Languages
 
-English — Professional Proficiency
-Hindi — Native
+English — Professional Proficiency, 
+Hindi — Native, 
 Dutch — Beginner (A1, in progress)
 
 ---
